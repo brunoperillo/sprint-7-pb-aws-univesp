@@ -5,16 +5,36 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 
 ***
 
-## Execução
+*Capa em desenvolvimento*
 
-Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g/personal/lucas_sousa_compasso_com_br/Eph8d9BDeRhGhBzyoAYRLZUBhfjA54P1-5YHERGaN5_Osg?e=1ibFDI), crie um chatbot utilizando o Amazon Lex V2 e o conecte a uma plataforma de mensageria.
+## Introdução 
 
-**Especificações**:
+Nessa Sprint, vimos o curso Alexa Skill Builder para inciantes com conceitos, ferramentas e práticas para criar Skills e o Amazon Conect que é uma solução da AWS.
 
-- Função do chatbot é de livre escolha do desenvolvedor;
+## Objetivo 
+
+Criar um chatbot utilizando o Amazon Lex V2 e conectar a uma plataforma de mensageria. (apos o grupo escolher mencionar aqui)
+
+*O que são Chatbots ?*
+
+É um programa de computador que tenta simular um ser humano na conversação com as pessoas. Objetivo é responder as perguntas de tal forma que as pessoas tenha a impressão de estar conversando com *outra pessoa* e não com um progama de computador. Tornar o suporte ou atendimento mais humanizado. 
+
+*O que seria Amazon Lex?*
+
+É um serviço da AWS para criação de interfaces de conversa (chatbots) para aplicativos de voz e texto utilizando o mecanismo de conversa da plataforma do Amazon Alexa. Através da funcionalidades de compreensão de linguagem natural (NLU) e o reconhecimento automático de fala (ASR) para permitir a criação de experiências de usuário. 
+
+Nosso chatboot foi desenvolvindo para  ajudar 
+
+(desenvolvendo)Função do chatbot é de livre escolha do desenvolvedor
+
+
+(desenvolver:)
 - Conexões: O chatbot deve ser disponibilizado em uma das seguintes plataformas:  
   - Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
   - Web - [Web](https://github.com/aws-samples/aws-lex-web-ui);
+
+
+
 - Construção:   
   - Intents:    
     - O chatbot deve possuir ao menos 4 intents distintas;  
@@ -29,30 +49,42 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
 
 ***
 
-## O que será avaliado?
 
-- Projeto em produção na AWS;
+
+- Projeto em produção na AWS; 
+
 - Entendimento do chatbot e o que ele soluciona;
+
+
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
+
+
 - Intents e slots criados e informações que eles se dispõem a obter;
+
+
 - Organização:  
   - Estrutura de intenções;  
+
   - Estrutura da lógica de negócio;  
+
   - Divisão de responsabilidades da equipe;  
+
   - Funcionalidade do chatbot;
+
+
 - Objetividade do README.md.
 
 ***
 
-## Entrega
 
-- Aceitar o convite do repositório da sprint-7-pb-aws-univesp;
-- **O trabalho deve ser feito em grupos de 3 ou 4 integrantes**;
-  - Não repetir formação de grupos já criados em sprints anteriores;
-- Criar uma branch no repositório com o formato grupo-número (Exemplo: grupo-1);
 - Subir o trabalho na branch com um README.md;
+
   - Documentar detalhes sobre como a avaliação foi desenvolvida;
+
   - Dificuldades conhecidas;
+
+
   - Como utilizar o sistema;
+
   - Export do bot Lex em formato .zip;
-- O prazo de entrega é até às 12h do dia 15/05/2023 no repositório do github ([https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp)).
+
