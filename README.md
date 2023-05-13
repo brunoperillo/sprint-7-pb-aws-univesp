@@ -1,10 +1,19 @@
-# Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
+## Status do Projeto
 
-Avaliação da sétima sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.
+🚧 Em andamento... 🚧
 
 
+
+# Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
+
+Avaliação da [sétima sprint][sprint7main] do programa de bolsas [Compass UOL][compass] para formação em machine learning para [AWS][aws].
 ***
 
+# Chatbot Miguel - Primeiro Atendimento em Hospital
+
+Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebe o nome de Miguel.
+
+***
 *Capa em desenvolvimento*
 
 ## Introdução 
@@ -151,7 +160,32 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 
 É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
 
+------------- 
+## Intents e Slots
+O chatbot possui 4 intents distintas:
+
+Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
+Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
+Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
+Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
+O chatbot utiliza slots para capturar informações, como especialidade médica, nome do paciente, data e horário da consulta e tipo de emergência.
+
+## Organização
+O projeto foi desenvolvido em equipe, com a divisão de responsabilidades entre os integrantes. A estrutura de intenções e a lógica de negócio foram pensadas de forma a garantir uma boa experiência do usuário. O README.md foi escrito de forma objetiva e clara para facilitar a compreensão do projeto.
+
+## Dificuldades Conhecidas
+Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em relação à integração do chatbot com o canal de comunicação. Além disso, foi necessário estudar e entender as funcionalidades do Amazon Lex V2 para a criação das intents e slots.
+
+Export do Bot Lex
+O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
+----------
+
 
 ## Desenvolvedores do projeto
 | [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Monserrat Perillo</sub>](https://github.com/brunoperillo)  |  [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>BCarlos Roberto de Souza Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Lopes Silva</sub>](https://github.com/KellyPLSilva)  | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) |
 | :---: | :---: | :---: |:---: |:---: |
+
+***
+   [compass]: <https://compass.uol/en/home/>
+   [aws]: <https://aws.amazon.com/pt/>
+   [sprint7main]: https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp>
