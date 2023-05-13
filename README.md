@@ -1,20 +1,20 @@
 <div align="center" style="padding: 25px;">
   <img src="./src/img/compass.png">
-  <img src="./src/img/aws-logo.png" style="max-width:250px; padding: 25px;">
+  <img src="./src/img/aws.png">
 </div>
 
 # 📑 Avaliação da Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
 
 ## 📌 Navegação
 
-- [📝 Introdução](#📝introdução)
-- [🤖 Lex V2](#🤖amazon-lex-v2)
-- [🎯 Objetivo](#🎯objetivo)
-- [💻 Desenvolvimento](#💻desenvolvimento)
-  * [🔧 Ferramentas e tecnologias utilizadas](#🔧feramentas-e-tecnologias-utilizadas)
-  * [🚀 Deploy com Slack](#🚀deploy-com-slack)
-- [Resultado](#🏁resultado)
-- [👥 Equipe](#👥equipe)
+- [📝 Introdução](#introdução)
+- [🤖 Lex V2](#amazon-lex-v2)
+- [🎯 Objetivo](#objetivo)
+- [💻 Desenvolvimento](#desenvolvimento)
+  * [🔧 Ferramentas e tecnologias utilizadas](#feramentas-e-tecnologias-utilizadas)
+  * [🚀 Deploy com Slack](#deploy-com-slack)
+- [Resultado](#resultado)
+- [👥 Equipe](#equipe)
 
 ***
 
@@ -118,15 +118,5 @@ Um exemplo de interação pode ser conferido nesta imagem abaixo:
 ***
 ## 👥Equipe
 
-<div align="center"  style="display: flex; flex-direction: row; justify-content: center;">
-
-[<img style=" padding:10px" src="https://avatars.githubusercontent.com/u/112827096?v=4" width=100><br><sub>Barbara</sub>](https://github.com/Barbarahayd)
-
-[<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/96358027?v=4" width=100><br><sub>Diego Alves</sub>](https://github.com/Diegox0301)
-
-[<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/73674662?v=4" width=100><br><sub>Marcos Carvalho</sub>](https://github.com/onativo)
-
-[<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/94749597?v=4" width=100><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi)
-
-[<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/117780664?v=4" width=100><br><sub>Viviane Alves</sub>](https://github.com/Vivianes86)
-</div>
+| [<img style=" padding:10px" src="https://avatars.githubusercontent.com/u/112827096?v=4" width=100><br><sub>Barbara</sub>](https://github.com/Barbarahayd) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/96358027?v=4" width=100><br><sub>Diego Alves</sub>](https://github.com/Diegox0301) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/73674662?v=4" width=100><br><sub>Marcos Carvalho</sub>](https://github.com/onativo) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/94749597?v=4" width=100><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/117780664?v=4" width=100><br><sub>Viviane Alves</sub>](https://github.com/Vivianes86) |
+| :---: | :---: | :---: |:---: |:---: |
