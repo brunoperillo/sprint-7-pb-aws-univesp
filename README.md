@@ -1,6 +1,6 @@
 <div align="center" style="padding: 25px;">
   <img src="./src/img/compass.png">
-  <img src="./src/img/aws-logo.png" style="max-width:30%; padding: 25px;">
+  <img src="./src/img/aws-logo.png" style="max-width:250px; padding: 25px;">
 </div>
 
 # 📑 Avaliação da Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
