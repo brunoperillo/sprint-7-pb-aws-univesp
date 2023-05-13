@@ -4,7 +4,6 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 
 
 ***
-
 ## Execução
 
 Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g/personal/lucas_sousa_compasso_com_br/Eph8d9BDeRhGhBzyoAYRLZUBhfjA54P1-5YHERGaN5_Osg?e=1ibFDI), crie um chatbot utilizando o Amazon Lex V2 e o conecte a uma plataforma de mensageria.
@@ -56,3 +55,9 @@ Com base na [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g
   - Como utilizar o sistema;
   - Export do bot Lex em formato .zip;
 - O prazo de entrega é até às 12h do dia 15/05/2023 no repositório do github ([https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp)).
+
+
+## Desenvolvedores do projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/97908745?v=4" width=115><br><sub>Ana Vitória Louro Navili</sub>](https://github.com/anaVitoriaLouro) | [<img src="https://avatars.githubusercontent.com/u/81330043?v=4" width=115><br><sub>Bernardo Lima</sub>](https://github.com/belima93)| [<img src="https://avatars.githubusercontent.com/u/124359272?v=4" width=115><br><sub>Irati Gonçalves Maffra</sub>](https://github.com/IratiMaffra) | [<img src="https://avatars.githubusercontent.com/u/35769020?v=4" width=115><br><sub>Marcio Lima Brunelli</sub>](https://github.com/ml-brunelli) |
+| :---: | :---: | :---: |:---: |
