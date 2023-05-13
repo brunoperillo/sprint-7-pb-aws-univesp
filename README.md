@@ -25,7 +25,38 @@ Criar um chatbot utilizando o Amazon Lex V2 e conectar a uma plataforma de mensa
 
 Nosso chatboot foi desenvolvindo para  ajudar 
 
+## Configurações inicial do chatbot 
+
+Nome do bot: ChatBot Miguel
+Voz de saída : Cristiano
+Tempo limite da sessão: 5 minutos
+Análise de sentimento: Não
+COPA : Não
+Opções avançadas : Não
+Deixe os valores padrão para todas as outras opções.
+
+
+# Sample utterrances 
+
+*imagem
+
+
+
+Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado riskLevel.
+Defina os três slots iniciais da seguinte maneira:
+
+
+* imagem
+
+
 (desenvolvendo)Função do chatbot é de livre escolha do desenvolvedor
+
+## Crie e teste o ChatBot Miguel
+Nesta seção, você testará seu Robo Advisor.
+
+Para construir seu bot, clique no Buildbotão no canto superior direito.
+Quando a compilação estiver concluída, teste-a na janela do chatbot.
+Você deve ver uma conversa como a abaixo.
 
 
 (desenvolver:)
@@ -69,7 +100,7 @@ Nosso chatboot foi desenvolvindo para  ajudar
 
   - Divisão de responsabilidades da equipe;  
 
-  - Funcionalidade do chatbot;
+ 
 
 
 - Objetividade do README.md.
@@ -83,8 +114,39 @@ Nosso chatboot foi desenvolvindo para  ajudar
 
   - Dificuldades conhecidas;
 
+  Entender a sequencia nas mensagens 
+
+
+
 
   - Como utilizar o sistema;
 
+  
+
   - Export do bot Lex em formato .zip;
+
+*Em análise pelo grupo*
+
+  Funcionalidade do chatbot:
+
+  O chatbot Miguel para um pronto socorro, aqui estão algumas habilidades que podemos considerar incluir no chatbot para pronto socorro:
+
+Triagem de Emergências: O chatbot pode fazer perguntas para avaliar a gravidade da situação, determinar a urgência do caso e fornecer as orientações apropriadas.
+
+Direcionamento de Pacientes: Com base nas informações fornecidas pelo usuário, o chatbot pode direcionar os pacientes para a área correta do pronto socorro, como trauma, pediatria ou sala de espera.
+
+Primeiros Socorros: O chatbot pode fornecer instruções básicas de primeiros socorros para ajudar os usuários a lidar com lesões ou condições de emergência enquanto esperam por ajuda profissional.
+
+Informações sobre Condições Comuns: O chatbot pode fornecer informações sobre sintomas, causas e tratamentos de condições médicas comuns, como resfriados, gripes, cortes, entre outros.
+
+Localização e Contato: O chatbot pode fornecer informações sobre a localização do pronto socorro, horários de funcionamento e números de telefone de contato para emergências ou dúvidas não urgentes.
+
+Perguntas Frequentes: O chatbot pode responder a perguntas frequentes sobre os serviços disponíveis no pronto socorro, exames, procedimentos, cobertura de seguro e outras informações relevantes.
+
+Acompanhamento de Pacientes: O chatbot pode ajudar a acompanhar o progresso dos pacientes, fornecer lembretes de medicação ou agendamento de consultas de acompanhamento.
+
+Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a experiência no pronto socorro, ajudando a identificar áreas de melhoria e fornecendo informações para a gestão do hospital.
+
+É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
+
 
