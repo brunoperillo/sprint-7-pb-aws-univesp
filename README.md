@@ -27,39 +27,41 @@ Nosso chatboot foi desenvolvindo para  ajudar
 
 ## Configurações inicial do chatbot 
 
-Nome do bot: ChatBot Miguel
-Voz de saída : Cristiano
-Tempo limite da sessão: 5 minutos
-Análise de sentimento: Não
-COPA : Não
-Opções avançadas : Não
-Deixe os valores padrão para todas as outras opções.
+Nome: ChatBot Miguel
 
+Voz de saída : Cristiano
+
+Tempo limite da sessão: 5 minutos
+
+Análise de sentimento: Não
+
+Opções avançadas : Não
 
 # Sample utterrances 
 
-*imagem
+*imagem*
 
 
 
-Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado riskLevel.
+Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado ....
 Defina os três slots iniciais da seguinte maneira:
 
 
-* imagem
+*imagem*
 
 
-(desenvolvendo)Função do chatbot é de livre escolha do desenvolvedor
+*desenvolvendo*
+Função do chatbot é de livre escolha do desenvolvedor
 
 ## Crie e teste o ChatBot Miguel
-Nesta seção, você testará seu Robo Advisor.
+Nesta seção, você testará seu ChatBot.
 
-Para construir seu bot, clique no Buildbotão no canto superior direito.
+Para construir seu bot, clique no crie bot no canto superior direito.
 Quando a compilação estiver concluída, teste-a na janela do chatbot.
 Você deve ver uma conversa como a abaixo.
 
 
-(desenvolver:)
+*desenvolver*
 - Conexões: O chatbot deve ser disponibilizado em uma das seguintes plataformas:  
   - Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
   - Web - [Web](https://github.com/aws-samples/aws-lex-web-ui);
