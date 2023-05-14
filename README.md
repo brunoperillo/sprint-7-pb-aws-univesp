@@ -112,8 +112,9 @@ Você deve ver uma conversa como a abaixo.
 
 - Projeto em produção na AWS; 
 
-- Entendimento do chatbot e o que ele soluciona;
+## Entendimento do chatbot e o que ele soluciona
 
+![Chatbot Miguel - diagram - Account ownership diagram-1](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/e9a39464-1b45-48df-8879-230ce8ec5a9c)
 
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
 
@@ -193,6 +194,14 @@ O projeto foi desenvolvido em equipe, com a divisão de responsabilidades entre 
 ## Dificuldades Conhecidas
 Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em relação à integração do chatbot com o canal de comunicação. Além disso, foi necessário estudar e entender as funcionalidades do Amazon Lex V2 para a criação das intents e slots.
 
+## Ferramentas utilizadas
+- Amazon Lex
+
+- Lucid.app
+
+- VSCode
+
+*Verificar essa informação*
 Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
 ----------
