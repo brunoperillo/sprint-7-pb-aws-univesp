@@ -11,7 +11,7 @@ Avaliação da [sétima sprint][sprint7main] do programa de bolsas [Compass UOL]
 
 ![capa githug](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212)
 
-# Objetivo
+## Objetivo
 
 Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebeu o nome de Miguel.
 
@@ -60,12 +60,31 @@ Defina os três slots iniciais da seguinte maneira:
 *desenvolvendo*
 Função do chatbot é de livre escolha do desenvolvedor
 
-## Crie e teste o ChatBot Miguel
-Nesta seção, você testará seu ChatBot.
+## Teste o ChatBot Miguel
 
-Para construir seu bot, clique no crie bot no canto superior direito.
+1. Clone o repositório do chatbot do GitHub para o seu ambiente local.
+
+2. Certifique-se de ter as dependências necessárias instaladas, como o AWS CLI (Command Line Interface).
+
+3. Faça login na sua conta da AWS usando o AWS CLI, se ainda não estiver conectado. Você pode usar o comando aws configure para fornecer suas credenciais.
+
+4. Crie um novo bot no Amazon Lex no console da AWS ou use um bot existente.
+5. No diretório do seu repositório clonado, navegue até a pasta que contém os arquivos do bot (geralmente em um formato JSON).
+
+6. Use o AWS CLI para criar ou atualizar o bot no Amazon Lex. 
+
+
+Substitua "NomeDoBot" pelo nome do seu bot e "caminho/para/arquivo.json" pelo caminho correto para o arquivo JSON do seu bot no seu ambiente local.
+
+7. Após a criação ou atualização do bot, você pode começar a testá-lo usando o console do Amazon Lex. Navegue até o console do Lex na AWS e encontre o seu bot.
+
+8. No console do Lex, você pode iniciar uma conversa com o bot e enviar mensagens para testar suas respostas.
+
 Quando a compilação estiver concluída, teste-a na janela do chatbot.
+
 Você deve ver uma conversa como a abaixo.
+
+*imagem*
 
 
 *desenvolver*
