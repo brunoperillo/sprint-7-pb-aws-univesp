@@ -14,11 +14,17 @@ Avaliação da [sétima sprint][sprint7main] do programa de bolsas [Compass UOL]
 Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebe o nome de Miguel.
 
 ***
-*Capa em desenvolvimento*
+
+![capa githug](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212)
+
+
+
 
 ## Introdução 
 
-Nessa Sprint, vimos o curso Alexa Skill Builder para inciantes com conceitos, ferramentas e práticas para criar Skills e o Amazon Conect que é uma solução da AWS.
+A inteligência artificial tem um potencial enorme de transformar a saúde. As possibilidades são infinitas, abrangendo áreas como o desenvolvimento de novos medicamentos, análise preditiva, melhor alocação de recursos e a melhoria do diagnóstico e do cuidado médico como um todo.
+Nesse aspecto, compreendida a necessidade de mudanças e implementações para a melhor funcionalidade desse sistema os chatbots podem ajudar a reduzir esse tempo de espera, fornecendo informações e orientações preliminares antes que o paciente seja visto por um profissional de saúde. 
+Sem dúvida, esta tecnologia estará presente no pronto atendimento do futuro.
 
 ## Objetivo 
 
@@ -46,7 +52,7 @@ Análise de sentimento: Não
 
 Opções avançadas : Não
 
-# Sample utterrances 
+## Sample utterrances 
 
 *imagem*
 
