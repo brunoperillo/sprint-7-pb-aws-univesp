@@ -118,6 +118,9 @@ Você deve ver uma conversa como a abaixo.
 
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
 
+![imagem_chatbotMiguel](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/3711d3df-f6d3-434f-b305-98f22cb987e8)
+
+O Chatbot Miguel foi criado através de imagens geradas pela Intengencia Artifical do aplicativo Canva e nome doi dado pela equipe. 
 
 - Intents e slots criados e informações que eles se dispõem a obter;
 
