@@ -1,24 +1,19 @@
-#                                                    Status do Projeto
+## Status do Projeto
 
-                                                   🚧 Em andamento... 🚧
+🚧 Em andamento... 🚧
 
 
 
-# Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
+# Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
 
 Avaliação da [sétima sprint][sprint7main] do programa de bolsas [Compass UOL][compass] para formação em machine learning para [AWS][aws].
 ***
 
-# Chatbot Miguel - Primeiro Atendimento em Hospital
-
-Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebe o nome de Miguel.
-
-***
-
 ![capa githug](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212)
 
+## Objetivo
 
-
+Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebeu o nome de Miguel.
 
 ## Introdução 
 
@@ -26,9 +21,6 @@ A inteligência artificial tem um potencial enorme de transformar a saúde. As p
 Nesse aspecto, compreendida a necessidade de mudanças e implementações para a melhor funcionalidade desse sistema os chatbots podem ajudar a reduzir esse tempo de espera, fornecendo informações e orientações preliminares antes que o paciente seja visto por um profissional de saúde. 
 Sem dúvida, esta tecnologia estará presente no pronto atendimento do futuro.
 
-## Objetivo 
-
-Criar um chatbot utilizando o Amazon Lex V2 e conectar a uma plataforma de mensageria. (apos o grupo escolher mencionar aqui)
 
 *O que são Chatbots ?*
 
@@ -68,12 +60,31 @@ Defina os três slots iniciais da seguinte maneira:
 *desenvolvendo*
 Função do chatbot é de livre escolha do desenvolvedor
 
-## Crie e teste o ChatBot Miguel
-Nesta seção, você testará seu ChatBot.
+## Teste o ChatBot Miguel
 
-Para construir seu bot, clique no crie bot no canto superior direito.
+1. Clone o repositório do chatbot do GitHub para o seu ambiente local.
+
+2. Certifique-se de ter as dependências necessárias instaladas, como o AWS CLI (Command Line Interface).
+
+3. Faça login na sua conta da AWS usando o AWS CLI, se ainda não estiver conectado. Você pode usar o comando aws configure para fornecer suas credenciais.
+
+4. Crie um novo bot no Amazon Lex no console da AWS ou use um bot existente.
+5. No diretório do seu repositório clonado, navegue até a pasta que contém os arquivos do bot (geralmente em um formato JSON).
+
+6. Use o AWS CLI para criar ou atualizar o bot no Amazon Lex. 
+
+
+Substitua "NomeDoBot" pelo nome do seu bot e "caminho/para/arquivo.json" pelo caminho correto para o arquivo JSON do seu bot no seu ambiente local.
+
+7. Após a criação ou atualização do bot, você pode começar a testá-lo usando o console do Amazon Lex. Navegue até o console do Lex na AWS e encontre o seu bot.
+
+8. No console do Lex, você pode iniciar uma conversa com o bot e enviar mensagens para testar suas respostas.
+
 Quando a compilação estiver concluída, teste-a na janela do chatbot.
+
 Você deve ver uma conversa como a abaixo.
+
+*imagem*
 
 
 *desenvolver*
@@ -167,33 +178,13 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
 
 ------------- 
-                                                   🚧 Devaneios {Bruno}... 🚧
-                                                   
-## Funcionamento do chatbot
-Ao iniciar uma conversa com o chatbot, o usuário poderá selecionar uma das opções apresentadas em um menu de botões para interagir com o Miguel:
-
-- Marcar Consulta
-- Informações Sobre o Hospital
-- Atendimento de Emergência
-- Cancelar Conversa
-
-Caso o usuário escolha a opção de Marcar Consulta, o chatbot irá solicitar informações sobre a especialidade médica, o nome do paciente, data e horário desejados para a consulta. Em seguida, confirmará os dados para finalizar o agendamento.
-
-Caso o usuário escolha a opção de Informações Sobre o Hospital, o chatbot fornecerá informações úteis, como horários de visita, número de leitos disponíveis, endereço, telefone, entre outras.
-
-Caso o usuário escolha a opção de Atendimento de Emergência, o chatbot irá solicitar informações sobre a emergência, como tipo de emergência e localização do paciente. Em seguida, o chatbot poderá direcionar o usuário para um canal de comunicação mais direto com a equipe de atendimento.
-
-Caso o usuário escolha a opção de Cancelar Conversa, o chatbot encerrará a conversa.
-
-
 ## Intents e Slots
 O chatbot possui 4 intents distintas:
 
-- Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
-- Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
-- Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
-- Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
-
+Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
+Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
+Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
+Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
 O chatbot utiliza slots para capturar informações, como especialidade médica, nome do paciente, data e horário da consulta e tipo de emergência.
 
 ## Organização
@@ -202,14 +193,13 @@ O projeto foi desenvolvido em equipe, com a divisão de responsabilidades entre 
 ## Dificuldades Conhecidas
 Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em relação à integração do chatbot com o canal de comunicação. Além disso, foi necessário estudar e entender as funcionalidades do Amazon Lex V2 para a criação das intents e slots.
 
-## Export do Bot Lex
+Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
-
 ----------
 
 
 ## Desenvolvedores do projeto
-| [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Monserrat Perillo</sub>](https://github.com/brunoperillo)  |  [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>Carlos Roberto Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Lopes Silva</sub>](https://github.com/KellyPLSilva)  | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) |
+| [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Monserrat Perillo</sub>](https://github.com/brunoperillo)  |  [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>BCarlos Roberto de Souza Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Lopes Silva</sub>](https://github.com/KellyPLSilva)  | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) |
 | :---: | :---: | :---: |:---: |:---: |
 
 ***
