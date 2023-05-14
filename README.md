@@ -14,6 +14,8 @@
   * [🔧 Ferramentas e tecnologias utilizadas](#feramentas-e-tecnologias-utilizadas)
   * [🚀 Deploy com Slack](#deploy-com-slack)
 - [Resultado](#resultado)
+- [Organização](#organização)
+- [Dificuldades](#dificuldades)
 - [👥 Equipe](#equipe)
 
 ***
