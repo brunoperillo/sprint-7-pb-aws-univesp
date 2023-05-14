@@ -13,9 +13,9 @@
 - [💻 Desenvolvimento](#desenvolvimento)
   * [🔧 Ferramentas e tecnologias utilizadas](#feramentas-e-tecnologias-utilizadas)
   * [🚀 Deploy com Slack](#deploy-com-slack)
-- [Resultado](#resultado)
-- [Organização](#organização)
-- [Dificuldades](#dificuldades)
+- [🏁 Resultado](#resultado)
+- [📋 Organização](#organização)
+- [ Dificuldades](#dificuldades)
 - [👥 Equipe](#equipe)
 
 ***
@@ -116,6 +116,15 @@ Um exemplo de interação pode ser conferido nesta imagem abaixo:
     </sub>
   </div>
 </div>
+
+***
+
+## 📋 Organização
+Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams  para planejar o desenvolvimento do projeto proposto na sprint.
+
+***
+
+##  Dificuldades
 
 ***
 ## 👥Equipe
