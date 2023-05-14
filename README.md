@@ -8,8 +8,8 @@ Avaliação da sétima sprint do programa de bolsas Compass UOL para formação 
 ## O Projeto
 
 Este projeto tem como objetivo criar um chatbot utilizando o Amazon Lex v2 e integrá-lo ao Slack. 
-O Amazon Lex é um serviço de chatbot de conversação que usa a tecnologia de processamento de linguagem natural (NLP) para compreender a intenção do usuário e responder de acordo. 
-O Slack é uma plataforma de comunicação empresarial que permite aos usuários trocar mensagens em tempo real e colaborar em projetos.
+- O Amazon Lex é um serviço de chatbot de conversação que usa a tecnologia de processamento de linguagem natural (NLP) para compreender a intenção do usuário e responder de acordo. 
+- O Slack é uma plataforma de comunicação empresarial que permite aos usuários trocar mensagens em tempo real e colaborar em projetos.
 
 ***
 
@@ -21,6 +21,7 @@ O Slack é uma plataforma de comunicação empresarial que permite aos usuários
 
 
 **Configurando o Slack**
+
 Para realizar a integração do chatbot ao Slack, foi utilizado o seguintes passos:
 
   1. Crie um aplicativo no Slack, se ainda não tiver um. Para isso, acesse a página de criação de aplicativos do Slack e siga as instruções.
@@ -52,5 +53,5 @@ Para realizar a integração do chatbot ao Slack, foi utilizado o seguintes pass
 ***
 
 ## Referências
-- Amazon Lex - [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g/personal/lucas_sousa_compasso_com_br/Eph8d9BDeRhGhBzyoAYRLZUBhfjA54P1-5YHERGaN5_Osg?e=1ibFDI)
-- Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html);  
+- Amazon Lex - [Documentação Amazon Lex](https://compasso-my.sharepoint.com/:f:/g/personal/lucas_sousa_compasso_com_br/Eph8d9BDeRhGhBzyoAYRLZUBhfjA54P1-5YHERGaN5_Osg?e=1ibFDI);
+- Slack - [Conexão Slack](https://docs.aws.amazon.com/pt_br/lex/latest/dg/slack-bot-association.html)  
