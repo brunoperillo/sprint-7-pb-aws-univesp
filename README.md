@@ -124,10 +124,12 @@ Um exemplo de interação pode ser conferido nesta imagem abaixo:
   </div>
 </div>
 
+Quando necessitar inserir data o Bot aceita tanto o formato xx/xx/xxxx como o formato xx-xx-xxxx.
+
 ***
 
 ## 📋 Organização
-Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams  para planejar o desenvolvimento do projeto proposto na sprint.
+Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams para planejar o desenvolvimento do projeto proposto na sprint.
 
 ***
 
