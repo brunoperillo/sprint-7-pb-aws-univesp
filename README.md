@@ -42,6 +42,13 @@ A criação de um chatbot utilizando o Amazon Lex v2 envolve os seguintes passos
 
   5. Publicação e integração: Quando o chatbot estiver funcionando corretamente, você pode publicá-lo para que ele esteja acessível ao público.
 
+<div align="center" style="padding: 20px">
+  <img src="./src/img/fluxogeral.png">
+  <sub>
+    <p style="padding: 10px">Servicos utlizados</p>
+  </sub>
+</div>
+
 
 **Configurando o Slack**
 
