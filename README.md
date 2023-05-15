@@ -39,19 +39,20 @@ Análise de sentimento: Não
 
 ## *Intents utterrances* 
 
-*imagem*
+Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada.
 
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Lista_intents_decricao.png" alt="Lista de Intents" width="250"/>
+</div>
 
+A imagem acima mostra a lista de *intents* do chatbot Miguel e uma descrição do serviço que ela trata.
 
-Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado ....
-Defina os três slots iniciais da seguinte maneira:
+Uma *intent* processa o diálogo com o usuário a partir de *utterances*, que são palavras ou frases pré-programadas de como o usuário poderá interagir com o chatbot.
 
+<div align="center">
+  <img src="[https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Lista_intents_decricao.png" alt="Lista de Intents](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Exemplo_utterances.png)" width="250"/>
+</div>
 
-*imagem*
-
-
-*desenvolvendo*
-Função do chatbot é de livre escolha do desenvolvedor
 
 ## Teste o ChatBot Miguel
 
