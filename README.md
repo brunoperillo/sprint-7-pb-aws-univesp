@@ -37,17 +37,16 @@ Voz de saída: Somente texto
 Tempo limite da sessão: 5 minutos
 Análise de sentimento: Não
 
-## *Intents, utterrances e slots* 
+## *Intents* 
 
-Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada.
+Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada. A imagem acima mostra a lista de *intents* do chatbot Miguel e uma descrição do serviço que ela trata.
 
 <div align="center">
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Lista_intents_decricao.png" alt="Lista de Intents" width="90%"/>
 </div>
 
 
-<p style="margin-top: 20px;">A imagem acima mostra a lista de *intents* do chatbot Miguel e uma descrição do serviço que ela trata..</p>
-
+## *Utterrances*
 
 Uma *intent* processa o diálogo com o usuário a partir de *utterances*, que são palavras ou frases pré-programadas de como o usuário poderá interagir com o chatbot.
 
@@ -55,10 +54,12 @@ Uma *intent* processa o diálogo com o usuário a partir de *utterances*, que s�
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Exemplo_utterances.png" alt="Exemplos de Utterances width="70%"/>
 </div>
 
+## *Slots*
+
 A captação/leitura de informações e dados fornecidos pelo usuário é feita a partir de *slots*, que podem ter tipo pré-definidos (nome, número, email) ou podem ser criados pelo desenvolvedor definindo os valores possíveis para seu tipo de *slot*.
 
 <div align="center">
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot5.png" alt="Exemplo slots width="90%"/>
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot5.png" alt="Exemplo slots width="80%"/>
 </div>
 
 ## Teste o ChatBot Miguel
