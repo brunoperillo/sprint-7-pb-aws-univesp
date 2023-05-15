@@ -91,7 +91,7 @@ O passo a passo de como realizar essa integração pode ser conferido na documen
 
 ***
 
-##📏 Arquitetura
+## 📏 Arquitetura
 ![arquitetura](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/117780664/5814a4ed-67c4-480e-930c-bf7dac6249f6)
 ***
 
@@ -132,6 +132,7 @@ Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams  para p
 ***
 
 ##  Dificuldades
+Interação com a plataforma AWS Lex, compreender a lógica para poder criar o Bot
 
 ***
 ## 👥Equipe
