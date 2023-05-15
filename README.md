@@ -84,13 +84,12 @@ Substitua "NomeDoBot" pelo nome do seu bot e "caminho/para/arquivo.json" pelo ca
 
 Quando a compilação estiver concluída, teste-a na janela do chatbot.
 
-Você deve ver uma conversa como a abaixo.
+Você deve ver uma conversa como a do exemplo abaixo:
 
-<div align="center">
-  <video src="[seu_video.mp4](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Video_bot.mp4)" controls width="240" height="360"></video>
+<div>
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="49%" style="float: left;">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="49%" style="float: right;">
 </div>
-
-
 
 
 ## Diagrama de funcionamento do Chatbot Miguel
@@ -99,6 +98,9 @@ Você deve ver uma conversa como a abaixo.
 
 ## Deploy do chatbot na *slack*
 
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/88354075/238371150-5924c5b5-4013-4390-94ce-2d76f3bc0c78.png" alt="Chatbot online no slack width="70%"/>
+</div>
 
 
 ## Organização
