@@ -1,12 +1,15 @@
-# Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
+# Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
 
 Avaliação da [Sprint 7][sprint7main] do Programa de Bolsas [Compass UOL][compass] para formação em *machine learning* com [AWS][aws].
 ***
+
+# Chatbot Miguel - Primeiro Atendimento em Hospital
 
 <div align="center">
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212" alt="capa github" width="450"/>
 </div>
 
+***
 
 ## **Objetivo**
 
@@ -39,20 +42,19 @@ Análise de sentimento: Não
 
 ## *Intents utterrances* 
 
-Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada.
+*imagem*
 
-<div align="center">
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Lista_intents_decricao.png" alt="Lista de Intents"/>
-</div>
 
-A imagem acima mostra a lista de *intents* do chatbot Miguel e uma descrição do serviço que ela trata.
 
-Uma *intent* processa o diálogo com o usuário a partir de *utterances*, que são palavras ou frases pré-programadas de como o usuário poderá interagir com o chatbot.
+Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado ....
+Defina os três slots iniciais da seguinte maneira:
 
-<div align="center">
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Exemplo_utterances.png" alt="Exemplos de Utterances"/>
-</div>
 
+*imagem*
+
+
+*desenvolvendo*
+Função do chatbot é de livre escolha do desenvolvedor
 
 ## Teste o ChatBot Miguel
 
@@ -178,37 +180,32 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
 
 ------------- 
-                                                   🚧 Devaneios {Bruno}... 🚧
 
 ## Funcionamento do chatbot
 Ao iniciar uma conversa com o chatbot, o usuário poderá selecionar uma das opções apresentadas em um menu de botões para interagir com o Miguel:
 
-- Marcar Consulta
-- Informações Sobre o Hospital
-- Atendimento de Emergência
-- Cancelar Conversa
-
-Caso o usuário escolha a opção de Marcar Consulta, o chatbot irá solicitar informações sobre a especialidade médica, o nome do paciente, data e horário desejados para a consulta. Em seguida, confirmará os dados para finalizar o agendamento.
-
-Caso o usuário escolha a opção de Informações Sobre o Hospital, o chatbot fornecerá informações úteis, como horários de visita, número de leitos disponíveis, endereço, telefone, entre outras.
-
-Caso o usuário escolha a opção de Atendimento de Emergência, o chatbot irá solicitar informações sobre a emergência, como tipo de emergência e localização do paciente. Em seguida, o chatbot poderá direcionar o usuário para um canal de comunicação mais direto com a equipe de atendimento.
-
-Caso o usuário escolha a opção de Cancelar Conversa, o chatbot encerrará a conversa.
+- Recepção / Agendar consulta ou exame
+- Consulta agendada
+- Exames agendado
+- Vacina
+- Farmácia
+- Avaliação do atendimento
 
 
+Caso o usuário escolha a opção de "Agendar consulta", o chatbot irá solicitar informações sobre a especialidade médica, o nome do paciente, data e horário desejados para a consulta. Em seguida, confirmará os dados para finalizar o agendamento.
 
+Caso o usuário escolha a opção de "Consulta agendada" ou "Exame agendado", o chatbot fornecerá informações úteis, como horários de visita, endereço, telefone, entre outras.
 
+Em caso de escolha das opções "Vacina" e "Farmácia", após algumas interações o paciente será redirecionado para o serviço de interesse.
+
+Caso o paciente seja recepcionado em estado grave ou por ambulância, um profissional de saúde poderá digitar a palavra "emergência" no prompt e assim será dado o devido encaminhamento. Note que este comando é oculto e somente profissionais terão acesso.
 
 ## Intents e Slots
-O chatbot possui 4 intents distintas:
+O chatbot possui 9 intents distintas:
 
-- Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
-- Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
-- Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
-- Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
-
-O chatbot utiliza slots para capturar informações, como especialidade médica, nome do paciente, data e horário da consulta e tipo de emergência.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/grupo-2/asset/Lista_intents_decricao.png" alt="capa github" width="450"/>
+</div>
 
 ## Organização
 O projeto foi desenvolvido em equipe, com a divisão de responsabilidades entre os integrantes. A estrutura de intenções e a lógica de negócio foram pensadas de forma a garantir uma boa experiência do usuário. O README.md foi escrito de forma objetiva e clara para facilitar a compreensão do projeto.
@@ -237,3 +234,4 @@ O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bo
    [compass]: <https://compass.uol/en/home/>
    [aws]: <https://aws.amazon.com/pt/>
    [sprint7main]: https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp>
+  
