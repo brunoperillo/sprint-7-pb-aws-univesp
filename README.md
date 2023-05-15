@@ -87,8 +87,8 @@ Quando a compilação estiver concluída, teste-a na janela do chatbot.
 Você deve ver uma conversa como a do exemplo abaixo:
 
 <div>
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="49%" style="float: left;">
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="49%" style="float: right;">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="29%" style="float: left;">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="29%" style="float: right;">
 </div>
 
 
