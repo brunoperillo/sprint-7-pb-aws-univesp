@@ -182,6 +182,28 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
 
 ------------- 
+                                                   🚧 Devaneios {Bruno}... 🚧
+
+## Funcionamento do chatbot
+Ao iniciar uma conversa com o chatbot, o usuário poderá selecionar uma das opções apresentadas em um menu de botões para interagir com o Miguel:
+
+- Marcar Consulta
+- Informações Sobre o Hospital
+- Atendimento de Emergência
+- Cancelar Conversa
+
+Caso o usuário escolha a opção de Marcar Consulta, o chatbot irá solicitar informações sobre a especialidade médica, o nome do paciente, data e horário desejados para a consulta. Em seguida, confirmará os dados para finalizar o agendamento.
+
+Caso o usuário escolha a opção de Informações Sobre o Hospital, o chatbot fornecerá informações úteis, como horários de visita, número de leitos disponíveis, endereço, telefone, entre outras.
+
+Caso o usuário escolha a opção de Atendimento de Emergência, o chatbot irá solicitar informações sobre a emergência, como tipo de emergência e localização do paciente. Em seguida, o chatbot poderá direcionar o usuário para um canal de comunicação mais direto com a equipe de atendimento.
+
+Caso o usuário escolha a opção de Cancelar Conversa, o chatbot encerrará a conversa.
+
+
+
+
+
 ## Intents e Slots
 O chatbot possui 4 intents distintas:
 
@@ -203,6 +225,7 @@ Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em
 - Lucid.app
 - VSCode
 - Slack
+
 
 ## Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
