@@ -1,4 +1,4 @@
-# Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
+# Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
 
 Avaliação da [Sprint 7][sprint7main] do Programa de Bolsas [Compass UOL][compass] para formação em *machine learning* com [AWS][aws].
 ***
@@ -86,7 +86,7 @@ Quando a compilação estiver concluída, teste-a na janela do chatbot.
 
 Você deve ver uma conversa como a do exemplo abaixo:
 
-<div>
+<div> 
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="25%" style="float: left;">
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="25%" style="float: right;">
 </div>
