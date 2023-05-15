@@ -1,50 +1,43 @@
-## Status do Projeto
-
-🚧 Em andamento... 🚧
-
-
-
 # Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
 
-Avaliação da [sétima sprint][sprint7main] do programa de bolsas [Compass UOL][compass] para formação em machine learning para [AWS][aws].
+Avaliação da [Sprint 7][sprint7main] do Programa de Bolsas [Compass UOL][compass] para formação em *machine learning* com [AWS][aws].
 ***
 
-![capa githug](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212)
-
-## Objetivo
-
-Este projeto consiste em um chatbot desenvolvido utilizando o Amazon Lex V2, que foi criado com o objetivo de realizar o primeiro atendimento em um hospital. O chatbot recebeu o nome de Miguel.
-
-## Introdução 
-
-A inteligência artificial tem um potencial enorme de transformar a saúde. As possibilidades são infinitas, abrangendo áreas como o desenvolvimento de novos medicamentos, análise preditiva, melhor alocação de recursos e a melhoria do diagnóstico e do cuidado médico como um todo.
-Nesse aspecto, compreendida a necessidade de mudanças e implementações para a melhor funcionalidade desse sistema os chatbots podem ajudar a reduzir esse tempo de espera, fornecendo informações e orientações preliminares antes que o paciente seja visto por um profissional de saúde. 
-Sem dúvida, esta tecnologia estará presente no pronto atendimento do futuro.
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212" alt="capa github" width="450"/>
+</div>
 
 
-*O que são Chatbots ?*
+## **Objetivo**
 
-É um programa de computador que tenta simular um ser humano na conversação com as pessoas. Objetivo é responder as perguntas de tal forma que as pessoas tenha a impressão de estar conversando com *outra pessoa* e não com um progama de computador. Tornar o suporte ou atendimento mais humanizado. 
+Este projeto consiste no desenvolvolvimento de um **chatbot** utilizando o **Amazon Lex v2**, e foi criado com o objetivo de operacionalizar a orientação de triagem de pacientes na Recepção de uma unidade de saúde (postinho, UPA, hospital). O mascote do chatbot recebeu o nome de Miguel.
+
+## **Introdução** 
+
+A inteligência artificial tem um potencial enorme de transformar a os serviço e o atendimento no setor de saúde. As possibilidades são infinitas, abrangendo áreas como o desenvolvimento de novos medicamentos, análise preditiva, melhor alocação de recursos e a melhoria do diagnóstico e do cuidado médico como um todo.
+Nesse aspecto, compreendida a necessidade de mudanças e implementações para a melhorar funcionalidades de sistemas, o uso chatbots pode por exemplo ajudar a reduzir esse tempo de espera, fornecendo informações e orientações preliminares antes que o paciente seja visto por um profissional de saúde. 
+Chatbots são portanto ferramentas muito úteis para operacionalizar e dar agilidade ao atendimento ao público, e vem sendo amplamente utilizados neste sentido.
+
+
+*O que são chatbots ?*
+
+É um programa de computador que tenta simular um ser humano na conversação com as pessoas. O objetivo é que ele consiga responder as perguntas de tal forma que as pessoas tenham a impressão de estar conversando com *outra pessoa* e não lidando um programa de computador. Isto torna o suporte ou atendimento mais humanizado e natural. 
 
 *O que seria Amazon Lex?*
 
-É um serviço da AWS para criação de interfaces de conversa (chatbots) para aplicativos de voz e texto utilizando o mecanismo de conversa da plataforma do Amazon Alexa. Através da funcionalidades de compreensão de linguagem natural (NLU) e o reconhecimento automático de fala (ASR) para permitir a criação de experiências de usuário. 
+É um serviço da AWS para criação de interfaces de conversa (chatbots) para aplicativos de voz e texto, podendo ainda utilizar o mecanismo de conversa da plataforma do Amazon Alexa. Através da funcionalidades de processamento de linguagem natural (NLP) e o reconhecimento automático de fala (ASR) para permitir a criação de experiências de usuário. 
 
-Nosso chatboot foi desenvolvindo para  ajudar 
+Nosso chatboot foi desenvolvindo para  ajudar. 
 
-## Configurações inicial do chatbot 
+## **Configurações inicial do chatbot** 
 
-Nome: ChatBot Miguel
-
-Voz de saída : Cristiano
-
+Nome: TriagemAtendimento
+Avatar/Mascote: Chatbot Miguel
+Voz de saída: Somente texto
 Tempo limite da sessão: 5 minutos
-
 Análise de sentimento: Não
 
-Opções avançadas : Não
-
-## Sample utterrances 
+## *Intents utterrances* 
 
 *imagem*
 
