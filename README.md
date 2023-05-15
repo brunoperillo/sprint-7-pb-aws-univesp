@@ -175,13 +175,36 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 É importante adaptar as habilidades do chatbot às necessidades específicas do seu pronto socorro, levando em consideração os recursos disponíveis e as prioridades de atendimento.
 
 ------------- 
+                                                   🚧 Devaneios {Bruno}... 🚧
+
+## Funcionamento do chatbot
+Ao iniciar uma conversa com o chatbot, o usuário poderá selecionar uma das opções apresentadas em um menu de botões para interagir com o Miguel:
+
+- Marcar Consulta
+- Informações Sobre o Hospital
+- Atendimento de Emergência
+- Cancelar Conversa
+
+Caso o usuário escolha a opção de Marcar Consulta, o chatbot irá solicitar informações sobre a especialidade médica, o nome do paciente, data e horário desejados para a consulta. Em seguida, confirmará os dados para finalizar o agendamento.
+
+Caso o usuário escolha a opção de Informações Sobre o Hospital, o chatbot fornecerá informações úteis, como horários de visita, número de leitos disponíveis, endereço, telefone, entre outras.
+
+Caso o usuário escolha a opção de Atendimento de Emergência, o chatbot irá solicitar informações sobre a emergência, como tipo de emergência e localização do paciente. Em seguida, o chatbot poderá direcionar o usuário para um canal de comunicação mais direto com a equipe de atendimento.
+
+Caso o usuário escolha a opção de Cancelar Conversa, o chatbot encerrará a conversa.
+
+
+
+
+
 ## Intents e Slots
 O chatbot possui 4 intents distintas:
 
-Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
-Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
-Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
-Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
+- Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
+- Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
+- Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
+- Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
+
 O chatbot utiliza slots para capturar informações, como especialidade médica, nome do paciente, data e horário da consulta e tipo de emergência.
 
 ## Organização
@@ -192,19 +215,19 @@ Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em
 
 ## Ferramentas utilizadas
 - Amazon Lex
-
 - Lucid.app
-
 - VSCode
+- Slack
 
-*Verificar essa informação*
-Export do Bot Lex
+
+## Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
+
 ----------
 
 
 ## Desenvolvedores do projeto
-| [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Monserrat Perillo</sub>](https://github.com/brunoperillo)  |  [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>BCarlos Roberto de Souza Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Lopes Silva</sub>](https://github.com/KellyPLSilva)  | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) |
+| [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Monserrat Perillo</sub>](https://github.com/brunoperillo)  |  [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>Carlos Roberto Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Lopes Silva</sub>](https://github.com/KellyPLSilva)  | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) |
 | :---: | :---: | :---: |:---: |:---: |
 
 ***
