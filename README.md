@@ -18,7 +18,7 @@ O chatbot desenvolvido tem como principal funcionalidade agilizar o processo de 
 - informar tabela com preços.
 
 <div align="center" style="padding: 20px">
-  <img src="./src/img/fluxograma-atendimento.png">
+  <img src="./src/img/fluxograma-atendimento.jpeg">
   <sub>
     <p style="padding: 10px">Funcionalidades do Bot</p>
   </sub>
