@@ -109,6 +109,8 @@ Você deve ver uma conversa como a abaixo.
 
 ![Diagrama - final](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/b1893533-9f4e-4c09-ad7f-0a8ea42209b1)
 
+Diagrama final
+
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
 
 ![imagem_chatbotMiguel](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/3711d3df-f6d3-434f-b305-98f22cb987e8)
