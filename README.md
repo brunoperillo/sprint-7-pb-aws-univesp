@@ -87,14 +87,16 @@ Quando a compilação estiver concluída, teste-a na janela do chatbot.
 Você deve ver uma conversa como a do exemplo abaixo:
 
 <div>
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="29%" style="float: left;">
-  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="29%" style="float: right;">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot1.png" alt="Tela bot 1" width="25%" style="float: left;">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot2.png" alt="Tela bot 2" width="25%" style="float: right;">
 </div>
 
 
 ## Diagrama de funcionamento do Chatbot Miguel
 
-![Diagrama - final](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/b1893533-9f4e-4c09-ad7f-0a8ea42209b1)
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/b1893533-9f4e-4c09-ad7f-0a8ea42209b1" alt="Fluxograma width="80%"/>
+</div>
 
 ## Deploy do chatbot na *slack*
 
