@@ -35,7 +35,7 @@ Para realizar a integração do chatbot ao Slack, foi utilizado o seguintes pass
 ***
 
 ## Testando a integração
-- Depois de configurar o bot no Amazon Lex v2 e integrá-lo ao Slack, você pode testar a integração enviando mensagens para o bot no Slack. As mensagens serão enviadas para o Amazon Lex v2, que irá processá-las e responder de acordo.
+- Depois de configurar o bot no Amazon Lex v2 e integrá-lo ao Slack, você pode testar a integração enviando mensagens para o [bot no Slack](https://join.slack.com/t/compassochatb-iqn9904/shared_invite/zt-1uxxpx71z-loExX6AF53AVCVHPrMWx1w). As mensagens serão enviadas para o Amazon Lex v2, que irá processá-las e responder de acordo.
 
 
 ***
