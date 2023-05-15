@@ -91,37 +91,27 @@ O passo a passo de como realizar essa integração pode ser conferido na documen
 ***
 
 ## 📏Arquitetura
+
+O fluxo deste Chatbot foi desenhado da seguinte forma:
+
+![arquiturachatbot](/src/img/estrutura.jpg)
+
+Para criar a estrutura na Amazon Lex, tivemos como base a estrutura abaixo:
+
 ![arquitetura](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/117780664/5814a4ed-67c4-480e-930c-bf7dac6249f6)
+
 ***
 
 
 ## 🏁Resultado
-O funcionamento do chatbot pode ser conferido [neste link](https://join.slack.com/t/testebot-ogl8096/shared_invite/zt-1v3plq85w-FoPdvu0bUIY5GZS0_4BqEw).
+O funcionamento do chatbot pode ser conferido [neste link](https://join.slack.com/t/novoworkspace-vil7979/shared_invite/zt-1vcgfwxz5-XsA5Ml56iGF96ZoIEFCN_w).
+
 Ao acessar a plataforma, faça login com sua conta pessoal ou vincule à sua conta Google ou qual outra desejar. Procure pelo app PlanoDeSaude na barra lateral à esquerda da sua tela, como demonstrado na imagem:
 
-<div align="center" style="padding: 20px">
-  <img src="./src/img/app.png">
-  <sub>
-    <p style="padding: 10px">Como acessar o App do chatbot dentro do Slack</p>
-  </sub>
-</div>
 
 Um exemplo de interação pode ser conferido nesta imagem abaixo:
 
-<div align="center" style="padding: 20px">
-  <div>
-    <img src="./src/img/bot.png">
-    <sub>
-      <p style="padding: 10px">Interação inicial entre usuário e o bot</p>
-    </sub>
-  </div>
-  <div>
-    <img src="./src/img/fulfillment.png">
-    <sub>
-      <p style="padding: 10px">Encerramento da interação com agendamento de consulta realizado</p>
-    </sub>
-  </div>
-</div>
+![Imagem](/src/img/Chatbot.PNG)
 
 ***
 
@@ -131,7 +121,8 @@ Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams para pl
 ***
 
 ## 🤷Dificuldades
-Interação com a plataforma AWS Lex, compreender a lógica para poder criar o Bot
+- Interação com a plataforma AWS Lex
+- Compreender a lógica para poder criar o Bot
 
 ***
 ## 👥Equipe
