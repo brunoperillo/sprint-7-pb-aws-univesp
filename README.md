@@ -96,9 +96,15 @@ O fluxo deste Chatbot foi desenhado da seguinte forma:
 
 ![arquiturachatbot](/src/img/estrutura.jpg)
 
-Para criar a estrutura na Amazon Lex, tivemos como base a estrutura abaixo:
+Sendo as Intents mapeadas para este projeto:
 
-![arquitetura](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/117780664/5814a4ed-67c4-480e-930c-bf7dac6249f6)
+- Saudação
+- Contratação de planos
+- Lista de médicos
+- Agendamento de consulta
+- Segunda via de cartão
+
+Para cada intent foi construído um ou mais slots específicos para atender o fluxo de conversação.
 
 ***
 
