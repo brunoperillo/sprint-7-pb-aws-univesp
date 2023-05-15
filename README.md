@@ -1,15 +1,12 @@
-# Avaliação Sprint 7 - Programa de Bolsas Compass UOL / AWS e Univesp
+# Avaliação Sprint 6 - Programa de Bolsas Compass UOL / AWS e Univesp
 
 Avaliação da [Sprint 7][sprint7main] do Programa de Bolsas [Compass UOL][compass] para formação em *machine learning* com [AWS][aws].
 ***
-
-# Chatbot Miguel - Primeiro Atendimento em Hospital
 
 <div align="center">
   <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/1e26160b-2a37-49ec-98f8-aab0cb457212" alt="capa github" width="450"/>
 </div>
 
-***
 
 ## **Objetivo**
 
@@ -42,19 +39,27 @@ Análise de sentimento: Não
 
 ## *Intents utterrances* 
 
-*imagem*
+Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada.
+
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Lista_intents_decricao.png" alt="Lista de Intents" width="90%"/>
+</div>
 
 
-
-Este bot usará quatro slots, três usando tipos integrados e um slot personalizado chamado ....
-Defina os três slots iniciais da seguinte maneira:
+<p style="margin-top: 20px;">A imagem acima mostra a lista de *intents* do chatbot Miguel e uma descrição do serviço que ela trata..</p>
 
 
-*imagem*
+Uma *intent* processa o diálogo com o usuário a partir de *utterances*, que são palavras ou frases pré-programadas de como o usuário poderá interagir com o chatbot.
 
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Exemplo_utterances.png" alt="Exemplos de Utterances width="70%"/>
+</div>
 
-*desenvolvendo*
-Função do chatbot é de livre escolha do desenvolvedor
+A captação/leitura de informações e dados fornecidos pelo usuário é feita a partir de *slots*, que podem ter tipo pré-definidos (nome, número, email) ou podem ser criados pelo desenvolvedor definindo os valores possíveis para seu tipo de *slot*.
+
+<div align="center">
+  <img src="https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/blob/grupo-2/asset/Tela_bot5.png" alt="Exemplo slots width="90%"/>
+</div>
 
 ## Teste o ChatBot Miguel
 
