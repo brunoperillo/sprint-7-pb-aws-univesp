@@ -185,10 +185,11 @@ Feedback e Avaliações: O chatbot pode coletar feedback dos usuários sobre a e
 ## Intents e Slots
 O chatbot possui 4 intents distintas:
 
-Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
-Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
-Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
-Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
+- Intent de Boas-Vindas: Apresenta um menu de opções para o usuário.
+- Intent de Marcar Consulta: Solicita informações sobre a consulta e confirma os dados para finalizar o agendamento.
+- Intent de Informações Sobre o Hospital: Fornecer informações úteis sobre o hospital.
+- Intent de Atendimento de Emergência: Solicita informações sobre a emergência e pode direcionar o usuário para a equipe de atendimento.
+
 O chatbot utiliza slots para capturar informações, como especialidade médica, nome do paciente, data e horário da consulta e tipo de emergência.
 
 ## Organização
@@ -199,13 +200,11 @@ Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em
 
 ## Ferramentas utilizadas
 - Amazon Lex
-
 - Lucid.app
-
 - VSCode
+- Slack
 
-*Verificar essa informação*
-Export do Bot Lex
+## Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
 ----------
 
