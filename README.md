@@ -114,7 +114,7 @@ Você deve ver uma conversa como a abaixo.
 
 ## Entendimento do chatbot e o que ele soluciona
 
-![Diagram - Account ownership diagram](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/debdccc8-8c43-49d2-9538-10b934f1ef48)
+![Diagrama - final](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/b1893533-9f4e-4c09-ad7f-0a8ea42209b1)
 
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
 
