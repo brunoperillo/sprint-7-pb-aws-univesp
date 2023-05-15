@@ -17,6 +17,13 @@ O chatbot desenvolvido tem como principal funcionalidade agilizar o processo de 
 - realizar o cancelamento de hospedagem;
 - informar tabela com preços.
 
+<div align="center" style="padding: 20px">
+  <img src="./src/img/fluxograma-atendimento.png">
+  <sub>
+    <p style="padding: 10px">Funcionalidades do Bot</p>
+  </sub>
+</div>
+
 ***
 
 ## Desenvolvimento
