@@ -13,11 +13,10 @@
 - [💻 Desenvolvimento](#desenvolvimento)
   * [🔧 Ferramentas e tecnologias utilizadas](#feramentas-e-tecnologias-utilizadas)
   * [🚀 Deploy com Slack](#deploy-com-slack)
-
-- [📏Arquitetura](#arquitetura)
+- [📏 Arquitetura](#arquitetura)
 - [🏁 Resultado](#resultado)
 - [📋 Organização](#organização)
-- [ Dificuldades](#dificuldades)
+- [🤷 Dificuldades](#dificuldades)
 - [👥 Equipe](#equipe)
 
 ***
@@ -91,7 +90,7 @@ O passo a passo de como realizar essa integração pode ser conferido na documen
 
 ***
 
-## 📏 Arquitetura
+## 📏Arquitetura
 ![arquitetura](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/117780664/5814a4ed-67c4-480e-930c-bf7dac6249f6)
 ***
 
@@ -124,20 +123,18 @@ Um exemplo de interação pode ser conferido nesta imagem abaixo:
   </div>
 </div>
 
-Quando necessitar inserir data o Bot aceita tanto o formato xx/xx/xxxx como o formato xx-xx-xxxx.
-
 ***
 
-## 📋 Organização
+## 📋Organização
 Realizado reuniões diárias com a equipe  utilizando a ferramenta Teams para planejar o desenvolvimento do projeto proposto na sprint.
 
 ***
 
-##  Dificuldades
+## 🤷Dificuldades
 Interação com a plataforma AWS Lex, compreender a lógica para poder criar o Bot
 
 ***
 ## 👥Equipe
 
-| [<img style=" padding:10px" src="https://avatars.githubusercontent.com/u/112827096?v=4" width=100><br><sub>Barbara</sub>](https://github.com/Barbarahayd) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/96358027?v=4" width=100><br><sub>Diego Alves</sub>](https://github.com/Diegox0301) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/73674662?v=4" width=100><br><sub>Marcos Carvalho</sub>](https://github.com/onativo) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/94749597?v=4" width=100><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/117780664?v=4" width=100><br><sub>Viviane Alves</sub>](https://github.com/Vivianes86) |
-| :---: | :---: | :---: |:---: |:---: |
+|[<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/96358027?v=4" width=100><br><sub>Diego Alves</sub>](https://github.com/Diegox0301) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/73674662?v=4" width=100><br><sub>Marcos Carvalho</sub>](https://github.com/onativo) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/94749597?v=4" width=100><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi) | [<img style=" padding:10px"  src="https://avatars.githubusercontent.com/u/117780664?v=4" width=100><br><sub>Viviane Alves</sub>](https://github.com/Vivianes86) |
+| :---: | :---: | :---: |:---: |
