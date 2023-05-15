@@ -37,7 +37,7 @@ Voz de saída: Somente texto
 Tempo limite da sessão: 5 minutos
 Análise de sentimento: Não
 
-## *Intents utterrances* 
+## *Intents, utterrances e slots* 
 
 Num chatbot, uma *Intent* é uma representação de uma ação que um usuário deseja executar ou de uma informação que o usuário deseja obter. É um componente chave na construção de chatbots baseados em linguagem natural, pois ajuda a identificar o que o usuário está tentando dizer ou solicitar,  e assim fornercer a resposta adequada.
 
