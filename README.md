@@ -11,13 +11,29 @@ Este projeto tem como objetivo criar um chatbot utilizando o Amazon Lex v2 e int
 - O Amazon Lex é um serviço de chatbot de conversação que usa a tecnologia de processamento de linguagem natural (NLP) para compreender a intenção do usuário e responder de acordo. 
 - O Slack é uma plataforma de comunicação empresarial que permite aos usuários trocar mensagens em tempo real e colaborar em projetos.
 
+O chatbot desenvolvido tem como principal funcionalidade agilizar o processo de hospedagem em hotel. Ele é projetado para interagir com os usuários, oferecendo respostas rápidas e precisas às suas perguntas e solicitações relacionadas à hospedagem podendo lidar com diversas tarefas, como:
+- fazer reservas de quartos;
+- verificar a disponibilidade de quartos em datas específicas;
+- realizar o cancelamento de hospedagem;
+- informar tabela com preços.
+
 ***
 
 ## Desenvolvimento
 
 **Configurando o chatbot**
 
-:construction:
+A criação de um chatbot utilizando o Amazon Lex v2 envolve os seguintes passos principais:
+
+  1. Definição do bot: No Console do Amazon Lex v2, você pode criar um novo bot e definir suas características principais.
+
+  2. Design do fluxo de conversação: Em seguida, você precisa projetar o fluxo de conversação do seu chatbot (intents e respostas).
+
+  3. Criação de slots: Para coletar informações específicas dos usuários, você pode definir slots.
+
+  4. Implantação do bot: Após a configuração do chatbot, você pode implantá-lo e testá-lo no ambiente de desenvolvimento.
+
+  5. Publicação e integração: Quando o chatbot estiver funcionando corretamente, você pode publicá-lo para que ele esteja acessível ao público.
 
 
 **Configurando o Slack**
@@ -35,7 +51,7 @@ Para realizar a integração do chatbot ao Slack, foi utilizado o seguintes pass
 ***
 
 ## Testando a integração
-- Depois de configurar o bot no Amazon Lex v2 e integrá-lo ao Slack, você pode testar a integração enviando mensagens para o [bot no Slack](https://join.slack.com/t/compassochatb-iqn9904/shared_invite/zt-1uxxpx71z-loExX6AF53AVCVHPrMWx1w). As mensagens serão enviadas para o Amazon Lex v2, que irá processá-las e responder de acordo.
+- Depois de configurar o bot no Amazon Lex v2 e integrá-lo ao Slack, você pode testar a integração enviando mensagens para o bot [neste link](https://join.slack.com/t/compassochatb-iqn9904/shared_invite/zt-1uxxpx71z-loExX6AF53AVCVHPrMWx1w). As mensagens serão enviadas para o Amazon Lex v2, que irá processá-las e responder de acordo.
 
 
 ***
