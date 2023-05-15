@@ -13,6 +13,8 @@
 - [💻 Desenvolvimento](#desenvolvimento)
   * [🔧 Ferramentas e tecnologias utilizadas](#feramentas-e-tecnologias-utilizadas)
   * [🚀 Deploy com Slack](#deploy-com-slack)
+
+- [📏Arquitetura](#arquitetura)
 - [🏁 Resultado](#resultado)
 - [📋 Organização](#organização)
 - [ Dificuldades](#dificuldades)
@@ -88,6 +90,11 @@ A integração de um chatbot de Plano de Saúde com uma plataforma de mensageria
 O passo a passo de como realizar essa integração pode ser conferido na documentação oficial da AWS, fornecida [neste link](https://docs.aws.amazon.com/lexv2/latest/dg/deploy-slack.html) e também através [deste vídeo](https://youtu.be/fak-223hHTE) do canal Cumulus Cycles hospedado no YouTube.
 
 ***
+
+##📏 Arquitetura
+![arquitetura](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/117780664/5814a4ed-67c4-480e-930c-bf7dac6249f6)
+***
+
 
 ## 🏁Resultado
 O funcionamento do chatbot pode ser conferido [neste link](https://join.slack.com/t/testebot-ogl8096/shared_invite/zt-1v3plq85w-FoPdvu0bUIY5GZS0_4BqEw).
