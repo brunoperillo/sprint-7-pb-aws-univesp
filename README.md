@@ -112,11 +112,15 @@ Você deve ver uma conversa como a abaixo.
 
 - Projeto em produção na AWS; 
 
-- Entendimento do chatbot e o que ele soluciona;
+## Entendimento do chatbot e o que ele soluciona
 
+![Diagram - Account ownership diagram](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/debdccc8-8c43-49d2-9538-10b934f1ef48)
 
 - Criatividade em relação ao tema escolhido para o desenvolvimento do chatbot;
 
+![imagem_chatbotMiguel](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/assets/88354075/3711d3df-f6d3-434f-b305-98f22cb987e8)
+
+O Chatbot Miguel foi criado através de imagens geradas pela Intengencia Artifical do aplicativo Canva e nome doi dado pela equipe. 
 
 - Intents e slots criados e informações que eles se dispõem a obter;
 
@@ -193,6 +197,14 @@ O projeto foi desenvolvido em equipe, com a divisão de responsabilidades entre 
 ## Dificuldades Conhecidas
 Durante o desenvolvimento do projeto, a equipe enfrentou algumas dificuldades em relação à integração do chatbot com o canal de comunicação. Além disso, foi necessário estudar e entender as funcionalidades do Amazon Lex V2 para a criação das intents e slots.
 
+## Ferramentas utilizadas
+- Amazon Lex
+
+- Lucid.app
+
+- VSCode
+
+*Verificar essa informação*
 Export do Bot Lex
 O bot Lex pode ser exportado em formato .zip e se encontra na pasta 'exported-bot' deste repositório.
 ----------
